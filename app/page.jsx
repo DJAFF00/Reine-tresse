@@ -16,7 +16,7 @@ export default function Home() {
               <text x="0" y="82" textLength="1000" lengthAdjust="spacingAndGlyphs" fontSize="115">REINE &amp; TRESSES</text>
             </svg>
           </h1>
-          <Photo file="hero.jpg" label="Clientes du salon avec leurs coiffures" className="hero-photo" />
+          <Photo file="Hero.jpg" label="Clientes du salon avec leurs coiffures" className="hero-photo" />
           <a className="btn-line caps" href={waLink()}>Réserver</a>
         </section>
 
