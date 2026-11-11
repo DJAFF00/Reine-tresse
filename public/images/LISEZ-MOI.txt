@@ -1,0 +1,8 @@
+Photos à déposer ici (JPG). Idéal : fond clair ou blanc.
+hero.jpg        : 3 clientes côte à côte (large), photo qui chevauche le nom
+feature.jpg     : une coiffure en gros plan (portrait)
+salon.jpg       : photo de l'intérieur du salon (page À propos)
+cat-tresses.jpg cat-nattes.jpg cat-tissage.jpg cat-coloration.jpg cat-soins.jpg : carrés
+tile-tresses.jpg tile-nattes.jpg tile-tissage.jpg : portraits
+coiffure-1.jpg … coiffure-6.jpg : portraits (catalogue)
+Fichier manquant = bloc gris clair.
